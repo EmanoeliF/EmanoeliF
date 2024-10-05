@@ -18,7 +18,7 @@ Aqui estão alguns dos meus principais repositórios:
 - [HTML5](https://github.com/EmanoeliF/HTML5): Este repositório contém codigos simples de atividade desenvolvidas no decorrer dos estudos. Tendo como objetivo demonstrar o uso das tags semânticas do HTML5, como header, section, article, e footer.
 - [CSS](https://github.com/EmanoeliF/CSS): O objetivo deste repositório é demonstrar o uso de Grid Layout, Flexbox, além de transições e animações CSS.
 - [JavaScript](https://github.com/EmanoeliF/JavaScript): O objetivo é demonstrar o uso de funções, eventos e DOM (Document Object Model) para criar uma página interativa com funcionalidades como validação de formulários, animações e consumo de APIs.
-- [Bootcamp-GFT](https://github.com/EmanoeliF/Bootcamp-GFT): Este repositório irá conter exercícios e projetos desenvolvidos durante o Bootcamp de Lógica de Programação, focado nos fundamentos da lógica computacional. O objetivo é desenvolver o raciocínio lógico por meio da resolução de problemas e algoritmos, preparando a base para linguagens de programação.
+- [Bootcamp](https://github.com/EmanoeliF/): Este repositório irá conter exercícios e projetos desenvolvidos durante o Bootcamp de Lógica de Programação, focado nos fundamentos da lógica computacional. O objetivo é desenvolver o raciocínio lógico por meio da resolução de problemas e algoritmos, preparando a base para linguagens de programação.
 
 ## Estatísticas do GitHub
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanoeliF&layout=compact&theme=radical)
