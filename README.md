@@ -1,4 +1,4 @@
-# Olá Devs! 👋 Sou Emanoelí França
+# Olá! 👋 Sou Emanoelí França
 
 ## Sobre mim
 - 💻 Sou uma desenvolvedora FrontEnd em processo de iniciação da carreira, tecnologias que uso: HTML5, CSS, JavaScript.
