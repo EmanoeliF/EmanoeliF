@@ -1,7 +1,7 @@
 # Olá! 👋 Sou Emanoelí França
 
 ## Sobre mim
-- 💻 Sou uma desenvolvedora FrontEnd em processo de iniciação da carreira, tecnologias que uso: HTML5, CSS, JavaScript.
+- 💻 Sou uma desenvolvedora em processo de iniciação da carreira, tecnologias que uso: HTML5, CSS, JavaScript.
 - 🎓 Atualmente, estou cursando: Analise e Desenvolvimento de Sistemas (ADS).
 - 🌱  Tenho interesse em contribuir em projetos open source e web development.
 
